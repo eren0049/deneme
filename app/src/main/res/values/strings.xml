@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExploerGitHub</string>
+    <string name="text">Hello from Github</string>
+</resources>
