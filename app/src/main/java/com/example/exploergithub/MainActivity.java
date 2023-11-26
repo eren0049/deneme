@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         textView.setText(getString(R.string.text));
         Log.e("eren","versionConflict");
         Log.e("eren2","version1");
+        Log.e("eren2","git fetch");
     }
 
 
