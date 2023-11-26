@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("eren","versionConflict");
         Log.e("eren2","version1");
         Log.e("eren2","git fetch");
+        Log.e("master","git behind/forward");
     }
 
 
