@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     private void inItViews(){
         textView= findViewById(R.id.textView);
         textView.setText(getString(R.string.text));
+       Log.e("eren","version1");
     }
 
 
