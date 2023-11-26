@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         textView= findViewById(R.id.textView);
         textView.setText(getString(R.string.text));
        Log.e("eren","version1");
+       Log.e("eren2","version1");
     }
 
 
